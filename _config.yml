@@ -11,9 +11,9 @@ title                    : "James Crow | Project Blog"
 title_separator          : "|"
 name                     : "James Crow"
 description              : "This is a space for me to document the various projects I take on for learning or fun."
-url                      : "http://jamescrowmedia.github.io"
+url                      : #"http://jamescrowmedia.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "JamesCrowMedia/jamescrowmedia.github.io"
+repository               : #"JamesCrowMedia/jamescrowmedia.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -80,7 +80,7 @@ author:
   name             : "James Crow"
   avatar           : "/assets/img/profile_img.jpg"
   bio              : #"I am an amazing person."
-  location         : "St Louis, Mo"
+  location         : "St Louis, MO"
   email            :
   uri              :
   bitbucket        :
