@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "James Crow"
-  avatar           : "/assets/images/profile_img.jpg"
+  avatar           : "/assets/img/profile_img.jpg"
   bio              : #"I am an amazing person."
   location         : "St Louis, Mo"
   email            :
